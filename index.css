@@ -26,6 +26,8 @@ h1, h2, p {
 }
 .item p {
   display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .flavor, .dessert {
@@ -42,6 +44,7 @@ h1, h2{
   font-family: Impact;
 }
 hr {
-  height: 3px;
+  height: 2px;
   background-color: brown;
+  border-color: brown;
 }
